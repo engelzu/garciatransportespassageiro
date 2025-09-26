@@ -1,7 +1,7 @@
 {
   "name": "Garcia Transportes",
   "short_name": "Garcia",
-  "start_url": "/passageiro.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d47a1",
@@ -19,5 +19,6 @@
     }
   ]
 }
+
 
 
